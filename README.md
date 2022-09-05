@@ -1,0 +1,2 @@
+# thirdAssignment
+For NCC Exam
